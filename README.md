@@ -11,7 +11,7 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Priview](#priview)
+- [Preview](#preview)
 - [Publication](#publication)
 - [Contact](#contact)
 
@@ -23,7 +23,7 @@
 
 <section id="priview">
 	
-## Priview
+## Preview
 <div class="demo">
     <div class="items">
 	<img class="img-demo" src="https://github.com/haras94/Bandung/blob/master/assets/ss%20web/priview-web.gif">   
