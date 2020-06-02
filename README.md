@@ -2,10 +2,9 @@
 <p align="center">
   <img height="100" src="https://github.com/haras94/Bandung/blob/master/assets/ss%20web/html.png">
   <img height="100" src="https://github.com/haras94/Bandung/blob/master/assets/ss%20web/css.png">
-  <img height="100" src="https://github.com/haras94/Bandung/blob/master/assets/ss%20web/javasript.png">
 </p>
 <p align="center">
-  Build with HTML, CSS and Javascript
+  Build with HTML and CSS
 </p>
 
 ## Table of Contents
